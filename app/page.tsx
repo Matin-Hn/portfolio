@@ -306,7 +306,7 @@ export default function Home() {
               <div className="dot-pattern absolute top-0 right-0 w-32 h-32 opacity-20"></div>
               <div className="dot-pattern absolute bottom-0 left-0 w-32 h-32 opacity-20"></div>
               <Image
-                src="\dev2_portrait.png"
+                src="\matin-wearing-a-black-hoodie-wider-view.png"
                 alt="portrait"
                 width={350}
                 height={350}

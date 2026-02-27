@@ -17,10 +17,10 @@ export default function Footer() {
           <div className="mb-4">
             <h3 className="text-right text-xl font-bold mb-4">Media</h3>
             <div className="flex gap-4 justify-end">
-              <Link href="https://github.com/matinhn84" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/matin-hn" target="_blank" rel="noopener noreferrer">
                 <Github className="text-white hover:text-purple" size={24} />
               </Link>
-              <Link href="https://github.com/matinhn84" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/matin-hn" target="_blank" rel="noopener noreferrer">
                 <Twitter className="text-white hover:text-purple" size={24} />
               </Link>
               <Link href="https://linkedin.com/in/matin-hashemnia-8ab5b335a" target="_blank" rel="noopener noreferrer">
